@@ -8,4 +8,4 @@ In order to connect the app to the workspace, replace the following attributes i
 - app.signingSecret: Basic Information/App Credentials/Signing Secret
 - app.appToken: Basic Information/App-Level Tokens/happines_socket/Token
 
-Install dependencies with npm install and then run the app using node app.js
+Install dependencies with `npm install` and then run the app using `node app.js`
